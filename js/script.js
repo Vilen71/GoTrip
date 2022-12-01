@@ -17,6 +17,7 @@ new Swiper(".swiper", {
    slidesPerGroup: 1,
    slidesPerView: 3,
    initialSlide: 1,
+   loop: true,
 
    breakpoints: {
       320: {
